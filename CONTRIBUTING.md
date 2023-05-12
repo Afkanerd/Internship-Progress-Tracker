@@ -25,6 +25,7 @@ git checkout -b my-progress-updates
 Replace `my-progress-updates` with a descriptive name for your branch.
 
 4. Inside your intern folder, create a new markdown file for each week of your internship, and document what you worked on, what you learned, and any challenges you faced that week. You can do this using your favorite text editor or IDE.
+5. When you're done with your updates for the week, add a link to the table of contents in your README.md file. You can use the following syntax: `[Week X: Date Range](./weekX.md)`
 
 ## Formatting Guidelines
 
