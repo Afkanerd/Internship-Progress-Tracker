@@ -1,3 +1,5 @@
+<img src="https://github.com/Afkanerd/Afkanerd-Resources/raw/main/images/Artboard%209.png" align="right" width="350px"/>
+
 # Internship Progress Tracker
 
 Welcome to the Internship Progress Tracker for Afkanerd Technologies! This repository is designed to help interns keep track of their progress during their internship. 
@@ -44,7 +46,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for information on how to contribute to
 
 ## Community Guidelines
 
-See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for our community guidelines.
+See [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html) for our community guidelines.
 
 ## Contact Us
 
