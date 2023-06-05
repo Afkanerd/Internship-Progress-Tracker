@@ -1,4 +1,4 @@
-## Week 1: May 22 - May 26
+## Week 2: May 22 - May 26
 
 ### What I worked on
 
