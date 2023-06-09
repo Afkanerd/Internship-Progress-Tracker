@@ -36,8 +36,8 @@ Through completing these tasks, I learned the following:
 
 ### How I overcame them
 
-- Pertaining to structuring, with the help of my mentor (a master artist in the ecosystem of technical writing by the way), I was able to follow a structure he provided, and also learned how to structure content, thereupon making things easier for me and eliminating the diversity in mind, in which I was able to focus, since I knew my target.
-- As for starting out the post, I sought to begin with a captivating story, that makes the reader see how ignoring WebAppSec in developing applications can be detrimental, that way, triggering him to want to know more about this WebAppSec and not repeat errors of the past. I also made sure to have a balanced content, not boring, not too nerdy, spanning across relatable real life scenarios, even a tech-unsavvy person can get what's going on.
+- Pertaining to structuring, with the help of my mentor (a master artist in the ecosystem of technical writing by the way), I was able to follow a structure provided, and also learned how to structure content, thereupon making things easier for me and eliminating the diversity in mind. I was then able to focus, since I knew better what to do and how to go about it.
+- As for starting out the post, I sought to begin with a captivating story, that makes the reader see how ignoring WebAppSec in developing applications can be detrimental, that way, triggering the zeal to know more about this WebAppSec and not repeat errors of the past. I also made sure to have a balanced content, not boring, not too nerdy, spanning across relatable real life scenarios, even a tech-unsavvy person can get what's going on.
 
 ### Next steps
 
