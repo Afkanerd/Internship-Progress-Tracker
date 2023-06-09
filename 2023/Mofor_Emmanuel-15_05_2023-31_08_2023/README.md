@@ -25,3 +25,4 @@ I am delighted to be part of the team; looking forward to a great experience her
 - [Week 1: May 15 - May 19](./week1.md)
 - [Week 2: May 22 - May 26](./week2.md)
 - [Week 3: May 29 - June 2](./week3.md)
+- [Week 4: June 5 - June 9](./week4.md)
