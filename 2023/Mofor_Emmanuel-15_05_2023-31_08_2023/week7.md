@@ -25,7 +25,7 @@ Through completing these tasks, I learned the following:
   - OAuth protocol compatibility
   - Actively in use, popular and not dying any time soon
   - Can integrate into a centralized solution for the storage of auth tokens and/or sessions
-  - Compatiblity with the current SWOB TPP custom logic and methods implementation that provides a layer of abstraction for use in the SWOB Backend
+  - Compatibility with the current SWOB TPP custom logic and methods implementation that provides a layer of abstraction for use in the SWOB Backend
 
 The platforms I had in mind from my research were rejected as they didn't fit aptly.
 
