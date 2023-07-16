@@ -3,7 +3,9 @@
 Welcome to my internship progress tracker for Afkanerd Technologies! In this repository, you'll find updates on what I'm working on each week, what I've learned, and any challenges I'm facing, and how I overcame those I could.
 
 ## About Me
+
 <!-- Write a brief introduction about yourself that includes your name, where you're from, your educational background, and any relevant experiences or interests you have that led you to pursue this internship. Additionally, please share what you hope to gain from this internship and how you plan to contribute to the team. -->
+
 I am Mofor Emmanuel, a computer engineering student at The University of Bamenda. I am passionate about building software that people use daily, software that eases lives, and one that causes an impact. I love working on and contributing to open-source software, building with experienced developers, and expanding my skills-set daily.
 
 I have worked (interned; in some cases) as a Frontend, Backend & Fullstack developer and Software Engineer for startups, agencies & organizations, and as a freelancer.
@@ -22,6 +24,7 @@ I am delighted to be part of the team; looking forward to a great experience her
 
 <!-- Sample item -->
 <!-- - [Week 1: May 1 - May 7](./week1.md) -->
+
 - [Week 1: May 15 - May 19](./week1.md)
 - [Week 2: May 22 - May 26](./week2.md)
 - [Week 3: May 29 - June 2](./week3.md)
@@ -30,3 +33,4 @@ I am delighted to be part of the team; looking forward to a great experience her
 - [Week 6: June 19 - June 23](./week6.md)
 - [Week 7: June 26 - June 30](./week7.md)
 - [Week 8: July 3 - July 7](./week8.md)
+- [Week 9: July 10 - July 14](./week9.md)
