@@ -37,3 +37,4 @@ I am delighted to be part of the team; looking forward to a great experience her
 - [Week 10: July 17 - July 21](./week10.md)
 - [Week 11: July 24 - July 28](./week11.md)
 - [Week 12: July 31 - August 4](./week12.md)
+- [Week 12: August 7 - August 11](./week13.md)
