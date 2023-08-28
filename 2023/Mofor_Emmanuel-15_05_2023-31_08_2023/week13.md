@@ -28,4 +28,4 @@ Doesn't apply
 
 Moving forward,
 
-- I plan on getting updates about the Yahoo request in progress and proceededing with the implementation, if nothing yet, try implementing media sending with discord.
+- I plan on getting updates about the Yahoo request in progress and proceeding with the implementation, if nothing yet, try implementing media sending with discord.
