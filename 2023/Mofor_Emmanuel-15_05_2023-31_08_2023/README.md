@@ -40,3 +40,4 @@ I am delighted to be part of the team; looking forward to a great experience her
 - [Week 13: August 7 - August 11](./week13.md)
 - [Week 14: August 14 - August 18](./week14.md)
 - [Week 15: August 21 - August 25](./week15.md)
+- [Week 16: August 28 - September 1](./week16.md)
